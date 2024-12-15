@@ -79,7 +79,7 @@ The insights derived here open doors for further exploration:
 
 **Clone the Repository**:  
 ```bash
-git clone <repository_url>
+git clone Investment-Preferences-Analysis
 ```  
 **Run the Analysis**:  
 Open the notebook in Jupyter to explore the code and visualizations:  
