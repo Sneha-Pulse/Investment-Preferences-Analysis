@@ -1,6 +1,6 @@
 ### Investment Preferences Analysis: A Data-Driven Approach to Understanding Financial Behavior  
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/2b3e9698-3c4c-4827-b1e7-3b8ab59abb7e)
 
 
 #### **Introduction**  
